@@ -23,12 +23,7 @@ import org.sfsoft.hibernate.util.Util.Accion;
 
 import com.toedter.calendar.JDateChooser;
 
-/**
- * Dialog con el que el usuario introduce información sobre un Actor
- * para insertar o modificar
- * @author Santiago Faci
- * @version curso 2014-2015
- */
+
 public class JActor extends JDialog {
 
 	private final JPanel contentPanel = new JPanel();

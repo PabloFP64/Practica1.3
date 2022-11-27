@@ -33,12 +33,7 @@ import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
 import javax.swing.ListSelectionModel;
 
-/**
- * Dialog con el que el usuario introduce información sobre un Director
- * para insertar o modificar
- * @author Santiago Faci
- * @version curso 2014-2015
- */
+
 public class JPelicula extends JDialog {
 
 	private final JPanel contentPanel = new JPanel();

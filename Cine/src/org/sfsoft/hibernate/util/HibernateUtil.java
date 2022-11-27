@@ -6,12 +6,6 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 import org.hibernate.service.ServiceRegistryBuilder;
 
-/**
- * Clase que facilita el trabajo con Hibernate
- * @author Santiago Faci
- * @version 1.0
- *
- */
 public class HibernateUtil {
 
 	private static SessionFactory sessionFactory;

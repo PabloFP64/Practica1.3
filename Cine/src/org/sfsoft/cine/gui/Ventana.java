@@ -26,11 +26,6 @@ import org.sfsoft.hibernate.util.Util;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
-/**
- * Clase principal
- * @author Santiago Faci
- * @version curso 2014-2015
-*/
 public class Ventana {
 
 	private JFrame frmCine;
