@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Cine/libs/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/jgoodies-common-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/hibernate-core-4.1.4.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/jgoodies-looks-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/jboss-logging-3.1.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/mysql-connector-java-5.1.22-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/jboss-transaction-api_1.1_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/hibernate-commons-annotations-4.0.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cine/libs/javassist-3.15.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
